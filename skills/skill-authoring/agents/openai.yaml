@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Authoring"
+  short_description: "Create and validate Codex skills"
+  default_prompt: "Use $skill-authoring to scaffold or update a Codex skill in this repo."
