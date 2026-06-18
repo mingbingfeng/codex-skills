@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Caveman'
+  short_description: '>'
+  default_prompt: 'Use $caveman to >'

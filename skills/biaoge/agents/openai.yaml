@@ -1,0 +1,6 @@
+interface:
+  display_name: "表格处理"
+  short_description: "创建、编辑并分析电子表格"
+  icon_small: "./assets/spreadsheet-small.svg"
+  icon_large: "./assets/spreadsheet.png"
+  default_prompt: "使用 $biaoge 创建、修改或分析这个表格，并保留正确的公式、结构和格式。"

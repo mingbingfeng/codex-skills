@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Best Practice Research'
+  short_description: '[OMX] Bounded best-practice research wrapper using official/upstream evidence first'
+  default_prompt: 'Use $best-practice-research to [OMX] Bounded best-practice research wrapper using official/upstream evidence first'

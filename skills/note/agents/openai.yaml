@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Note'
+  short_description: 'Save notes to notepad.md for compaction resilience'
+  default_prompt: 'Use $note to Save notes to notepad.md for compaction resilience'

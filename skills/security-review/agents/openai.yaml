@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Security Review'
+  short_description: 'Run a comprehensive security review on code'
+  default_prompt: 'Use $security-review to Run a comprehensive security review on code'

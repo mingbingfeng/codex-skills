@@ -1,0 +1,4 @@
+interface:
+  display_name: 'XLSX'
+  short_description: 'Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analy...'
+  default_prompt: 'Use $xlsx to Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analy...'

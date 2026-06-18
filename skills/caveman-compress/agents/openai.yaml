@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Caveman Compress'
+  short_description: '>'
+  default_prompt: 'Use $caveman-compress to >'

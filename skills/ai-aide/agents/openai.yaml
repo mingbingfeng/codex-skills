@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Aide"
+  short_description: "Codex-led codegen, refactor, and test aide"
+  default_prompt: "Use $ai-aide to delegate a bounded coding, refactor, or build-test task to a visible terminal AI aide and verify the result."

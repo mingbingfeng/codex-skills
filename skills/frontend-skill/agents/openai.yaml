@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Frontend Skill'
+  short_description: 'Use when the task asks for a visually strong landing page, website, app, prototype, demo, or game UI. This...'
+  default_prompt: 'Use $frontend-skill to Use when the task asks for a visually strong landing page, website, app, prototype, demo, or game UI. This...'

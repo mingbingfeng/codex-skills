@@ -1,0 +1,4 @@
+interface:
+  display_name: 'AI Slop Cleaner'
+  short_description: '[OMX] Run an anti-slop cleanup/refactor/deslop workflow'
+  default_prompt: 'Use $ai-slop-cleaner to [OMX] Run an anti-slop cleanup/refactor/deslop workflow'

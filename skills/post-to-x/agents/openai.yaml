@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Post To X'
+  short_description: '发布推文到 X.com (Twitter)，使用系统浏览器登录状态'
+  default_prompt: 'Use $post-to-x to 发布推文到 X.com (Twitter)，使用系统浏览器登录状态'

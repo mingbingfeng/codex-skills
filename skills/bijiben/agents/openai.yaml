@@ -1,0 +1,7 @@
+interface:
+  display_name: "笔记本问答（NotebookLM）"
+  short_description: "查询 NotebookLM 文档并返回带来源答案"
+  default_prompt: "使用 $bijiben 查询我的笔记本或文档资料，并返回带来源引用的中文答案。"
+
+policy:
+  allow_implicit_invocation: true

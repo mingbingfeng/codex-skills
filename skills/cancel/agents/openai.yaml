@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Cancel'
+  short_description: '[OMX] Cancel any active OMX mode (autopilot, ralph, ultrawork, ecomode, ultraqa, swarm, ultrapilot, pipelin...'
+  default_prompt: 'Use $cancel to [OMX] Cancel any active OMX mode (autopilot, ralph, ultrawork, ecomode, ultraqa, swarm, ultrapilot, pipelin...'

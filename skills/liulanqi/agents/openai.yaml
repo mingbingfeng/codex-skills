@@ -1,0 +1,6 @@
+interface:
+  display_name: "浏览器自动化"
+  short_description: "用真实浏览器执行自动化流程"
+  icon_small: "./assets/playwright-small.svg"
+  icon_large: "./assets/playwright.png"
+  default_prompt: "使用 $liulanqi 在真实浏览器里完成这个流程，并给出可复现的运行步骤。"

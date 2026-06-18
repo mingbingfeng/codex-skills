@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Xiaohongshu Search'
+  short_description: 'Search Xiaohongshu (Rednote) by keyword and extract note image URLs and titles with Playwright. Use when th...'
+  default_prompt: 'Use $xiaohongshu-search to Search Xiaohongshu (Rednote) by keyword and extract note image URLs and titles with Playwright. Use when th...'

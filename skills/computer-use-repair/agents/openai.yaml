@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Computer Use Repair'
+  short_description: 'Repair Codex App Windows Computer Use after app updates reset bundled marketplace or plugin configuration,...'
+  default_prompt: 'Use $computer-use-repair to Repair Codex App Windows Computer Use after app updates reset bundled marketplace or plugin configuration,...'

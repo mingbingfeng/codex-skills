@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lore Commit"
+  short_description: "Write Lore-style git commit messages"
+  default_prompt: "Use $lore-commit to draft a git commit message that follows the Lore protocol."

@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Blog Author'
+  short_description: 'Research a topic deeply, plan a blog step by step, and write a long-form article with structured Markdown o...'
+  default_prompt: 'Use $blog-author to Research a topic deeply, plan a blog step by step, and write a long-form article with structured Markdown o...'

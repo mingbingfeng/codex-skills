@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Excel Processor'
+  short_description: 'Read, write, analyze, and format Excel spreadsheets (.xlsx). Use when the user needs to create Excel files,...'
+  default_prompt: 'Use $excel-processor to Read, write, analyze, and format Excel spreadsheets (.xlsx). Use when the user needs to create Excel files,...'

@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Doctor'
+  short_description: '[OMX] Diagnose and fix oh-my-codex installation issues'
+  default_prompt: 'Use $doctor to [OMX] Diagnose and fix oh-my-codex installation issues'

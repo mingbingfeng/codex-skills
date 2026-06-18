@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Help'
+  short_description: 'Guide on using oh-my-codex plugin'
+  default_prompt: 'Use $help to Guide on using oh-my-codex plugin'

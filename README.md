@@ -11,9 +11,11 @@
 - 只有确实需要时，才添加 `scripts/`、`references/`、`assets/`
 - skill 内不要再放 `README.md` 之类的额外说明文件，长说明放到 `references/`
 
-## 当前模板
+## 当前内容
 
 - `skill-authoring`: 维护这个仓库的目录规范、添加新 skill、检查结构
+- 其余 `skills/*` 目录：从本机 `~/.codex/skills` 和 `~/.agents/skills` 同步的个人 skill
+- `pdf`: 合并了两个本地版本，保留主技能内容并补入补充资源与元数据
 
 ## 新增 Skill 的推荐流程
 

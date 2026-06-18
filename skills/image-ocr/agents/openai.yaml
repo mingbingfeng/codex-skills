@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Image Ocr'
+  short_description: 'Extract text from images using Python OCR. Use when the user wants to read text from screenshots, photos of...'
+  default_prompt: 'Use $image-ocr to Extract text from images using Python OCR. Use when the user wants to read text from screenshots, photos of...'

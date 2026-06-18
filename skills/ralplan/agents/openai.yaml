@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Ralplan'
+  short_description: '[OMX] Alias for $plan --consensus'
+  default_prompt: 'Use $ralplan to [OMX] Alias for $plan --consensus'

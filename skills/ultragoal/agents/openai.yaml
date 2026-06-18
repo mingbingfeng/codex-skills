@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Ultragoal'
+  short_description: '[OMX] Create and execute durable repo-native multi-goal plans over Codex goal mode artifacts.'
+  default_prompt: 'Use $ultragoal to [OMX] Create and execute durable repo-native multi-goal plans over Codex goal mode artifacts.'

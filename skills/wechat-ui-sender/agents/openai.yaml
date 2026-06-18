@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Wechat UI Sender'
+  short_description: 'Send desktop WeChat messages via screenshot-driven UI automation. Focus the WeChat window, search a contact...'
+  default_prompt: 'Use $wechat-ui-sender to Send desktop WeChat messages via screenshot-driven UI automation. Focus the WeChat window, search a contact...'

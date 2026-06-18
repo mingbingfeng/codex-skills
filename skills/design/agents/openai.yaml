@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Design'
+  short_description: '[OMX] Canonical repo-local DESIGN.md workflow for product, UI/UX, and frontend decision source of truth'
+  default_prompt: 'Use $design to [OMX] Canonical repo-local DESIGN.md workflow for product, UI/UX, and frontend decision source of truth'

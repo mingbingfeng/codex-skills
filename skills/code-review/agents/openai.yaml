@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Code Review'
+  short_description: '[OMX] Run a comprehensive code review'
+  default_prompt: 'Use $code-review to [OMX] Run a comprehensive code review'

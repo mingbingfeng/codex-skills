@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Xiaohongshu Creator'
+  short_description: '小红书内容创作与发布工具，支持AI生成文案、自动配图、定时发布、评论互动等完整工作流。基于浏览器会话，需要先登录小红书账号。'
+  default_prompt: 'Use $xiaohongshu-creator to 小红书内容创作与发布工具，支持AI生成文案、自动配图、定时发布、评论互动等完整工作流。基于浏览器会话，需要先登录小红书账号。'

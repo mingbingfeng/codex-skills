@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Email Drafter'
+  short_description: 'Generate professional email drafts using Python templates. Use when the user needs to compose business emai...'
+  default_prompt: 'Use $email-drafter to Generate professional email drafts using Python templates. Use when the user needs to compose business emai...'

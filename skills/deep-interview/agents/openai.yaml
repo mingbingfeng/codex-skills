@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Deep Interview'
+  short_description: '[OMX] Socratic deep interview with mathematical ambiguity gating before execution'
+  default_prompt: 'Use $deep-interview to [OMX] Socratic deep interview with mathematical ambiguity gating before execution'

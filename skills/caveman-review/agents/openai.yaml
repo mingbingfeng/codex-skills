@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Caveman Review'
+  short_description: '>'
+  default_prompt: 'Use $caveman-review to >'

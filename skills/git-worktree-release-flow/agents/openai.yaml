@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Worktree Release Flow"
+  short_description: "Manage feature, hotfix, and release worktrees"
+  default_prompt: "Use $git-worktree-release-flow to set up a versioned feature or hotfix branch with a dedicated git worktree."

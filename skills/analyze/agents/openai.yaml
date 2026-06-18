@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Analyze'
+  short_description: '[OMX] Run read-only deep repository analysis and return a ranked synthesis with explicit confidence, concre...'
+  default_prompt: 'Use $analyze to [OMX] Run read-only deep repository analysis and return a ranked synthesis with explicit confidence, concre...'

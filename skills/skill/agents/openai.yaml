@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Skill'
+  short_description: '[OMX] Manage local skills - list, add, remove, search, edit, setup wizard'
+  default_prompt: 'Use $skill to [OMX] Manage local skills - list, add, remove, search, edit, setup wizard'

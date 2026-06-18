@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文文本安全"
+  short_description: "直接写中文并保持 UTF-8 编码安全"
+  default_prompt: "使用 $zhongwen 直接编写或修复中文文本，并确保导出内容保持 UTF-8 可读。"
+
+policy:
+  allow_implicit_invocation: true

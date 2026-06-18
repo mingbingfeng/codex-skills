@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Web Scraper'
+  short_description: 'Scrape web pages, search the internet, and extract structured content using Python. Use when the user wants...'
+  default_prompt: 'Use $web-scraper to Scrape web pages, search the internet, and extract structured content using Python. Use when the user wants...'

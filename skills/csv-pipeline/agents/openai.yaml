@@ -1,0 +1,4 @@
+interface:
+  display_name: 'CSV Pipeline'
+  short_description: 'Process, transform, analyze, and report on CSV and JSON data files. Use when the user needs to filter rows,...'
+  default_prompt: 'Use $csv-pipeline to Process, transform, analyze, and report on CSV and JSON data files. Use when the user needs to filter rows,...'

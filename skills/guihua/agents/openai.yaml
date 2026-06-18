@@ -1,0 +1,7 @@
+interface:
+  display_name: "任务规划（文件化）"
+  short_description: "任务规划、项目拆解和多步骤进度跟踪"
+  default_prompt: "使用 $guihua 为这个任务建立文件化计划，并持续跟踪任务拆解与进度。"
+
+policy:
+  allow_implicit_invocation: true
